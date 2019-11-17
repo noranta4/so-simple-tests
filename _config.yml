@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Antonio Norelli PhD
+title: Quid est veritas?
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: 
 logo: site-logo.png
 url: https://noranta4.github.io/
 
@@ -36,18 +36,18 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  name: Antonio Norelli
+  avatar: antonio-norelli-photo.jpg
+  email: noranta4@gmail.com
+  disqus-shortname: noranta4
+  twitter: noranta4
+  facebook: noranta4
+  github: noranta4
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: 
   flickr:
-  tumblr: mademistakes
+  tumblr: 
   pinterest:
   weibo:
   google:
